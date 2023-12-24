@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "serverless-iam-roles-per-function": "^3.2.0",
+    "serverless-plugin-tracing": "^2.0.0",
+    "serverless-webpack": "^5.13.0"
+  },
+  "dependencies": {
+    "@middy/http-cors": "^5.1.0"
+  }
+}
